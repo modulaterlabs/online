@@ -8,7 +8,7 @@
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 ### Projects
-* [Linguify]()
+* [Linguify](/linguify.md)
 * [DeliverMe]()
 * [DetroitPaper]()
 
